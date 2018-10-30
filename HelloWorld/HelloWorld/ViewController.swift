@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
+    // New feature 1 added
+    func HelloWorld() {
+        print("Hello World")
+    }
 
 
 }
